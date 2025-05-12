@@ -1,1 +1,3 @@
-# CSE427-Machine-Learning
+# Feature-Driven Analysis of Online Purchase Intent
+
+Using SHAP and Predictive Models
